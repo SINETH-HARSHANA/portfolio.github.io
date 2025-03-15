@@ -19,7 +19,7 @@ header{
 }
 
 .bg-image{
-    background-image: url('footer.jpg');
+    background-image: url('./footer.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
