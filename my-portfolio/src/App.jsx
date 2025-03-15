@@ -5,7 +5,7 @@ export const Header = ()=> {
   return (
     <div className="header">
       <header className="grid grid-cols-3 items-center justify-between p-5 sm:p-10">
-        <h1 className="text-3xl text-purple-400 text-left">My PORTfolio</h1>
+        <h1 className="text-3xl text-purple-400 text-left">PORTfolio</h1>
         <h2 className="text-1xl text-purple-400 text-center">{new Date().toLocaleString()}</h2>
         <h2 className="text-1xl text-purple-400 text-center"><a href="https://www.linkedin.com/in/sinethharshana/">Contact Me</a></h2>
       </header>
